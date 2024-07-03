@@ -1,5 +1,5 @@
 # Calculator
-its a sample calculator that perform simple calculations such as addition, substraction ,multiplication and division
+its a simple calculator that perform simple calculations such as addition, substraction ,multiplication and division
 here is the source code for this calculator
 <html>
     <head>
